@@ -1,0 +1,7 @@
+backups/
+report.pdf
+gol.tar.gz
+.DS_Store
+output
+outputs/
+*.out
